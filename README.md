@@ -1,8 +1,14 @@
 # Compile 
-[**Compile**] is a robust and scalable Golang online code execution systhem
+[**Compile**] is a robust and scalable Golang online code execution systheme
 
 
 compile can help you build wide range of applications varying from competitive programming platforms, educational and recruitment platforms, to online code editors and more.
+
+
+## Todo list 
+- understand the project
+- make out project structure
+- write controller file
 
 ## Features
 - Quick and easy
@@ -14,3 +20,6 @@ compile can help you build wide range of applications varying from competitive p
 - Set custom command line arguments.
 - Set time and memory limits.
 - HTTP callbacks.
+
+
+
